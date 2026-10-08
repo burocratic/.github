@@ -1,4 +1,4 @@
-# <p align="center"><img src="https://burocratic.com/media/brand/logo-light.svg" alt="Burocratic Logo" width="320"></p>
+# <p align="center"><img src="https://burocratic.com/media/brand/burocratic-logo-light.svg" alt="Burocratic" width="320"></p>
 
 <p align="center">
   <strong>Tu Facturación, Simplificada y 100% Verifactu.</strong><br>
